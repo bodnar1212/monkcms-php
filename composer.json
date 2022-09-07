@@ -1,5 +1,5 @@
 {
-  "name": "monkdev/monkcms",
+  "name": "bodnar1212/monkcms-php",
   "description": "A PHP client for accessing the MonkCMS API in non-website environments.",
   "type": "library",
   "keywords": ["monk", "monkdev", "monkcms", "cms", "ekklesia", "ekklesia360"],
